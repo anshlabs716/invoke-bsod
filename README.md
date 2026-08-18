@@ -27,6 +27,7 @@ Only use it on a computer you own or have explicit permission to test or to skip
 The project explores what happens when Windows encounters conditions that can result in a system crash.
 
 It was created as a small Windows/PowerShell experiment and is primarily intended for **controlled testing and research**.
+
 for the .vbs and .sh files go to https://github.com/anshlabs716/deadly-scripts
 
 ---
