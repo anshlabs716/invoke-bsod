@@ -5,6 +5,7 @@
 ### 🪟 Windows Crash Testing & Research
 
 **A PowerShell-based project for experimenting with Windows crash behavior**
+** for the .vbs and .sh files go to https://github.com/anshlabs716/deadly-scripts**
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
