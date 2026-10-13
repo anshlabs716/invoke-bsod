@@ -2,8 +2,6 @@
 
 High-level structure of invoke-bsod.
 
-# Architecture
-
 This page describes the high-level structure of invoke-bsod. It is a starting
 point and is updated as the implementation evolves.
 
@@ -13,7 +11,7 @@ invoke-bsod
 
 ## Main components
 
-- `**PowerShell**`
+- **PowerShell**
 
 ## Data flow
 

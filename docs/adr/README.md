@@ -2,8 +2,6 @@
 
 Architecture decision records for invoke-bsod.
 
-# Architecture Decision Records
-
 This directory records significant architecture decisions for invoke-bsod.
 
 ## What is an ADR?

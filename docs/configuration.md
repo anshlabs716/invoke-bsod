@@ -2,8 +2,6 @@
 
 How to configure invoke-bsod.
 
-# Configuration
-
 Reference for configuring invoke-bsod.
 
 ## Where configuration lives
