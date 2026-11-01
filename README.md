@@ -83,6 +83,21 @@ invoke-bsod/
 ├── .editorconfig
 ├── .gitattributes
 ├── .github/
+│   ├── CODEOWNERS
+│   ├── CONTRIBUTING.md
+│   ├── ISSUE_TEMPLATE/
+│   │   ├── bug_report.yml
+│   │   ├── config.yml
+│   │   ├── feature_request.yml
+│   │   └── question.yml
+│   ├── PULL_REQUEST_TEMPLATE.md
+│   ├── release.yml
+│   └── workflows/
+│       ├── ci.yml
+│       ├── links.yml
+│       ├── markdown-lint.yml
+│       ├── release.yml
+│       └── security.yml
 ├── .gitignore
 ├── .markdownlint-cli2.jsonc
 ├── CHANGELOG.md
@@ -90,12 +105,27 @@ invoke-bsod/
 ├── CODE_OF_CONDUCT.md
 ├── COMPATIBILITY.md
 ├── CONTRIBUTING.md
+├── crash.ps1
 ├── DISCLAIMER.md
+├── docs/
+│   ├── adr/
+│   │   └── README.md
+│   ├── architecture.md
+│   ├── configuration.md
+│   ├── development.md
+│   ├── faq.md
+│   ├── index.md
+│   ├── prerequisites.md
+│   ├── releasing.md
+│   ├── safety-and-limitations.md
+│   ├── supported-platforms.md
+│   ├── testing.md
+│   ├── third-party-dependencies.md
+│   └── troubleshooting.md
 ├── LICENSE
 ├── README.md
 ├── SECURITY.md
 ├── SUPPORT.md
-├── THIRD_PARTY_NOTICES.md
-├── crash.ps1
-└── docs/
+└── THIRD_PARTY_NOTICES.md
 ```
+
