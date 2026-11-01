@@ -71,3 +71,29 @@ invoke-bsod/
 ├── LICENSE
 ├── README.md
 └── SECURITY.md
+
+---
+
+## 📁 Project Files
+
+```text
+invoke-bsod/
+├── .editorconfig
+├── .gitattributes
+├── .github/
+├── .gitignore
+├── .markdownlint-cli2.jsonc
+├── CHANGELOG.md
+├── CITATION.cff
+├── CODE_OF_CONDUCT.md
+├── COMPATIBILITY.md
+├── CONTRIBUTING.md
+├── crash.ps1
+├── DISCLAIMER.md
+├── docs/
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── SUPPORT.md
+├── THIRD_PARTY_NOTICES.md
+```
