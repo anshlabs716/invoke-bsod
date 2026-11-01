@@ -97,3 +97,29 @@ invoke-bsod/
 ├── SUPPORT.md
 ├── THIRD_PARTY_NOTICES.md
 ```
+
+---
+
+## 📁 Project Files
+
+```text
+invoke-bsod/
+├── .editorconfig
+├── .gitattributes
+├── .github/
+├── .gitignore
+├── .markdownlint-cli2.jsonc
+├── CHANGELOG.md
+├── CITATION.cff
+├── CODE_OF_CONDUCT.md
+├── COMPATIBILITY.md
+├── CONTRIBUTING.md
+├── DISCLAIMER.md
+├── LICENSE
+├── README.md
+├── SECURITY.md
+├── SUPPORT.md
+├── THIRD_PARTY_NOTICES.md
+├── crash.ps1
+└── docs/
+```
